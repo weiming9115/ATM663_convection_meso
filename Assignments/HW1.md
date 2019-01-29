@@ -10,3 +10,5 @@
 *What I want (pressure) = Work I must do to get it*
 
 **Hint: differentiate the mass equation by time, the momentum equations by space, and combine.** 
+
+# ANSWERS IN BOOK CHAPTER 1

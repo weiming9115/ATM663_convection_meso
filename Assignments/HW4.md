@@ -3,7 +3,7 @@
 
 ### Operate the Fiedler_anacondaweb_Boussinesq2Dconv.ipynb notebook 
 
-a. It already makes a **bubble**. Operate it. 
+a. It already makes a **bubble**. Operate it, maybe adjust it to learn something new. See [here](http://12characters.net/explore/blob801i.html) for the high-res solution.  
 
 b. Make a copy called **starting plume** and edit the code to make one. Make it unique or interesting since we will see 4 of them. 
 

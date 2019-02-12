@@ -1,4 +1,4 @@
-# Great set of computations -- pet tornado, bubbles, instability an a pizza box, etc. 
+# Great set of computations -- pet tornado, rising bubble, instability in a pizza box, etc. 
 
 https://anaconda.org/bfiedler/notebooks
 

@@ -1,4 +1,5 @@
-# Great set of computations -- pet tornado, rising bubble, instability in a pizza box, etc. 
+# pet tornado, rising bubble, instability in a pizza box, etc. 
+## from Brian Fiedler, emeritus OU prof.
 
 https://anaconda.org/bfiedler/notebooks
 

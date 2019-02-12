@@ -1,5 +1,5 @@
 # pet tornado, rising bubble, instability in a pizza box, etc. 
-## from Brian Fiedler, emeritus OU prof.
+## from Brian Fiedler, Professor Emeritus from OU (retired 2019)
 
 https://anaconda.org/bfiedler/notebooks
 

@@ -7,6 +7,10 @@ https://anaconda.org/bfiedler/notebooks
 
 ### linked from his old-school site at http://12characters.net/
 
+------------
+# Moist static energy soundings clickable from USA map 
+
+[Here](https://github.com/brianmapes/MSEplot/blob/master/Interactive_profile_probe_notebooks/MSEplot_USAsondes_hvClickMap.ipynb)
 
 
 

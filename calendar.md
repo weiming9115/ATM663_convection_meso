@@ -13,4 +13,5 @@
 | Finals week| Tuesday May 7 8-10:30 (later?) |done|
 
 **xxx = {other-convection, moisture, wind shear, LS vortices, LS waves, geography?}**
+
 *not? microphysics, ...

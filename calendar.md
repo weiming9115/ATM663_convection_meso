@@ -11,3 +11,5 @@
 | week -2 | Convection-xxx interaction: phenom | Theory/readings | 
 | week -1 | Convection-xxx interaction: phenom | Theory/readings | 
 | Finals week| Tuesday May 7 8-10:30 (later?) |done|
+
+## xxx = {moisture/self, shear, LS vortex, LS wave, geography?}

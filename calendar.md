@@ -14,4 +14,4 @@
 
 **xxx = {other-convection, moisture, wind shear, LS vortices, LS waves, geography?}**
 
-*not? microphysics, ...
+*not? microphysics, ...*

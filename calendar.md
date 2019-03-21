@@ -4,7 +4,7 @@
 | ...| ... | ...  |
 | **Before spring break** | Work forward | Basics & tools: Boussinesq, buoyancy, thermo; HW 1-5  |
 | **After spring break** | Working backward | From phenomena to Basics-rooted explanations |
-| week -6 | HW6, instability, GW dispersion, Vertical "modes", Mapes-Houze 1993, Mapes 1997 | Convection-stratification interaction | 
+| week -6 | HW6 (instability, GW dispersion by m or vertical "mode"); heating-forced waves (Mapes-Houze 1993, Mapes 1997) | Convection-stratification interaction. 1. Storms (COMET); 2. Equilibrated convecting layer state maintenance and responses | 
 | week -5 | Convection-xxx interaction: phenom | Theory/readings | 
 | week -4 | Convection-xxx interaction: phenom | Theory/readings | 
 | week -3 | Convection-xxx interaction: phenom | Theory/readings | 

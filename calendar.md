@@ -6,7 +6,7 @@
 | **After spring break** | Working backward | From phenomena to Basics-rooted explanations |
 | week -6 | HW6 (instability, GW dispersion by m or vertical "mode"); heating-forced waves (Mapes-Houze 1993, Mapes 1997) | Convection-stratification relationships. 1. Sensitivity of initiated Storms (COMET); 2. Effect of convection on environment (Bretherton-Smolarkiweicz, Raymond-Blyth detrainment as in Mapes 1997); 3. Equilibrated convecting layers: state maintenance and responses | 
 | week -5 | Convection-xxx interaction: phenom | Theory/readings | 
-| week -4 | Convection-xxx interaction: phenom | Theory/readings | 
+| week -4 | Convection-xxx interaction: phenom | Theory/readings : see March 2019 Hypothesis annotations [here](https://hypothes.is/users/brianmapes) | 
 | week -3 | Convection-xxx interaction: phenom | Theory/readings | 
 | week -2 | Convection-xxx interaction: phenom | Theory/readings | 
 | week -1 | Convection-xxx interaction: phenom | Theory/readings | 
